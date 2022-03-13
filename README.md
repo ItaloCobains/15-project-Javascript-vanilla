@@ -3,4 +3,10 @@
 
 # Color Flipper
 
-<img title="Imobi" alt="Imobi" src="img-from-readme/01.png">
+<img title="01" alt="01" src="img-from-readme/01.png">
+
+<hr>
+
+# Counter
+
+<img title="01" alt="01" src="img-from-readme/02.png">
